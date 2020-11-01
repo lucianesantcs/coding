@@ -28,11 +28,6 @@ Pré-processando arquivos de vídeo
 
 Reproduzindo vídeo buffers com Media Source
 <br><br>
-**Pré requisitos**
-
-- AWS CLI: https://aws.amazon.com/cli/
-
-<br><br>
 **Links extras**
 
 - W3C Media Source Extensions™: https://www.w3.org/TR/media-source/
@@ -41,6 +36,11 @@ Reproduzindo vídeo buffers com Media Source
 ### Aula 4
 
 Desvendando os vídeos interativos + Publicação na Internet
+<br><br>
+**Pré requisitos**
+
+- AWS CLI: https://aws.amazon.com/cli/
+
 <br><br>
 **Links extras**
 
