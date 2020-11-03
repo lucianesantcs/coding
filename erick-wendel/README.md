@@ -7,7 +7,7 @@
 ### Aula 2
 
 Pré-processando arquivos de vídeo
-<br><br>
+
 **Pré requisitos**
 
 - Node.js: https://nodejs.org/
@@ -15,7 +15,6 @@ Pré-processando arquivos de vídeo
 - FFMPEG & FFProbe: https://ffmpeg.org/ffmpeg.html
 - MP4Box https://github.com/gpac/gpac/wiki/MP4Box
 
-<br><br>
 **Links extras**
 
 - Netflix JavaScript Talks - Making Bandersnatch: http://bit.ly/netflix-bandersnatch-talk
@@ -27,7 +26,7 @@ Pré-processando arquivos de vídeo
 ### Aula 3
 
 Reproduzindo vídeo buffers com Media Source
-<br><br>
+
 **Links extras**
 
 - W3C Media Source Extensions™: https://www.w3.org/TR/media-source/
