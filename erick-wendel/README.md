@@ -35,12 +35,11 @@ Reproduzindo vídeo buffers com Media Source
 ### Aula 4
 
 Desvendando os vídeos interativos + Publicação na Internet
-<br><br>
+
 **Pré requisitos**
 
 - AWS CLI: https://aws.amazon.com/cli/
 
-<br><br>
 **Links extras**
 
 - Canal no telegram: http://bit.ly/telegram-jsweek
