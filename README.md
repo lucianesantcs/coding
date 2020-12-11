@@ -1,6 +1,6 @@
 # Coding
 
-Repositório para meus códigos criados em tutoriais de diversas fontes.
+Repositório dos meus códigos criados em tutoriais de diversas fontes.
 
 ### Lista dos diretórios
 
