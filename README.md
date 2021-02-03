@@ -6,6 +6,7 @@ Repositório dos meus códigos criados em tutoriais de diversas fontes.
 
 - <a href="https://github.com/lucianesantcs/coding/tree/main/code-and-create-task-manager">Code And Create</a>
 - <a href="https://github.com/lucianesantcs/coding/tree/main/coder-coder">Coder Coder</a>
+- <a href="https://github.com/lucianesantcs/coding/tree/main/dev-ed">Dev Ed</a>
 - <a href="https://github.com/lucianesantcs/coding/tree/main/erick-wendel">Erick Wendel</a>
 - <a href="https://github.com/lucianesantcs/coding/tree/main/fireship">Fireship</a>
 - <a href="https://github.com/lucianesantcs/coding/tree/main/origamid">Origamid</a>
