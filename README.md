@@ -17,6 +17,7 @@ Repositório dos meus códigos criados em tutoriais de diversas fontes.
 - HTML5
 - CSS
 - Sass
+- JavaScript
 - ReactJS
 - NodeJS
 
